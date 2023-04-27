@@ -1,0 +1,14 @@
+#controls{
+    position: absolute;
+    width: 100%;
+    border: 2px black solid;
+}
+
+#slider{
+    position: absolute;
+    width: 100%;
+}
+
+#canvas{
+    border: 2px solid black;
+}
