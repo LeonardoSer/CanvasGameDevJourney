@@ -9,3 +9,22 @@ from basic sprite animation to implementing a scrolling background, managing ene
 
 This repository is structured to progressively introduce more complex game development concepts. 
 Each section is dedicated to a specific aspect of game development, starting with simple sprite animations and advancing through to more complex game mechanics.
+
+## Getting Started
+
+### Squaaaaares
+The '**squaaaaares**' folder contains an example relying on the following template: https://github.com/christopher4lis/canvas-boilerplate
+![Peek 2024-03-08 10-09](https://github.com/LeonardoSer/CanvasGameDevJourney/assets/80627086/e3c7d5a4-2a0b-4226-9f43-8e8b335bb05d)
+
+### js_games
+
+The '**js_games**' folder is structured to progressively introduce more complex game development concepts. Each section is dedicated to a specific aspect of game development, starting with simple sprite animations and advancing through to more complex game mechanics.
+
+**Contents**
+    **00_basic sprite_animation**: Introduction to sprite animation, laying the groundwork for more complex interactions.
+
+    **05_scrollingBackground**: Implementing a scrolling background to create the illusion of movement and depth.
+    **10_enemies**: Adding enemies to the game, introducing basic animations.
+    **15_collisionDetection**: Handling collision detection to add realism and challenge to the game.
+
+    
