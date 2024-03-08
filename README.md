@@ -1,4 +1,4 @@
-JavaScript Game Development Studies with HTML Canvas
+/h1 JavaScript Game Development Studies with HTML Canvas
 
 Welcome to my collection of my ongoing studies focused on JavaScript game development using the HTML canvas. 
 
