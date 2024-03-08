@@ -38,4 +38,6 @@ The '**js_games**' folder is structured to progressively introduce more complex 
     
 [...Ongoing]
 
+# Resources 
+- https://www.youtube.com/@Frankslaboratory
     
