@@ -44,4 +44,6 @@ window.addEventListener('load', function(){
 
         FRAME_ELAPSED++; // frameCounter
     }   
+
+    animate()
 })
