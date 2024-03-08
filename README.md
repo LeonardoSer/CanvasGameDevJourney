@@ -22,9 +22,9 @@ The '**js_games**' folder is structured to progressively introduce more complex 
 
 **Contents**
     **00_basic sprite_animation**: Introduction to sprite animation, laying the groundwork for more complex interactions.
-
+      ![Peek 2024-03-08 10-11](https://github.com/LeonardoSer/CanvasGameDevJourney/assets/80627086/35f449ae-1de0-4371-bcf0-1ae11f14673a)
     **05_scrollingBackground**: Implementing a scrolling background to create the illusion of movement and depth.
     **10_enemies**: Adding enemies to the game, introducing basic animations.
-    **15_collisionDetection**: Handling collision detection to add realism and challenge to the game.
+    **15_collisionDetection**: Handling collision detection to add realism and challenge to the game. [...Ongoing]
 
     
